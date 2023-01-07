@@ -1,0 +1,55 @@
+.container{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  width: 100%;
+  height: 80px;
+  padding: 0px 10px;
+  background-color: #f1f1f1ec;
+  z-index: 10;
+  box-sizing: border-box;
+  box-shadow: rgb(50 50 93 / 25%) 0px 13px 27px -5px,
+  rgb(0 0 0 / 30%) 0px 8px 16px -8px;
+
+  
+}
+
+
+.logo img {
+  position: relative;
+  display: flex;
+  padding-left: 5%;
+  padding-top: 5%;
+  width: 80%;
+  height: 65%;
+}
+
+.groupLink a{
+  margin: 0px 5px;
+  position: relative;
+  top: 25%;
+  font-size: 20px;
+  font-family: "CarterOne" !important;
+  color: #5564be !important;
+  
+}
+
+.groupLink,
+.Link {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  margin-left: 9% 
+}
+
+.Link_sep:hover {
+  transform: scale(1.1);
+  }
+
+/* .groupLink:hover{
+  transform: scale(1.1);
+} */

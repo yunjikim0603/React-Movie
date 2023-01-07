@@ -1,0 +1,29 @@
+.group{
+  color:#5564be;
+}
+
+
+.title {
+  display: flex;
+  justify-content: center;
+  font-size: 35px;
+  margin-top: 150px;
+}
+
+.titleBox:hover {
+  transform: scale(1.1);
+}
+
+.title span{
+  margin: 10px;
+  font-family: "CarterOne";
+} 
+
+
+.footer {
+  height: 50px;
+}
+
+
+
+

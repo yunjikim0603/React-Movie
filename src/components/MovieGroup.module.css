@@ -1,0 +1,44 @@
+.movie{
+  display: flex;
+  justify-content: center;
+  color:black;
+}
+
+.show{
+  display: flex;
+  flex-direction: row;
+  margin: 50px 50px;
+  padding: 20px;
+  width: 600px;
+  height: 350px;
+  border: 1px solid #fcfcfb;
+  border-radius: 15px;
+  overflow: scroll;
+}
+
+.text{
+  /* display: flex; */
+  flex-direction: column;
+  justify-content: right;
+  padding-right: 30px;
+  padding-left: 15px;
+  width: 300px;
+  height: 350px;
+}
+
+.img{
+  justify-content: center;
+  float: right;
+  width: 300px;
+  height: 350px;
+}
+
+ul{
+  padding-inline-start: 20px;
+}
+
+.hr{
+  color:antiquewhite;
+}
+
+

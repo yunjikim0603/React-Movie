@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "CarterOne";
+  src: url("./fonts/CarterOne-Regular.ttf");
+}
+
+
+*{
+  font-family: "CarterOne";
+  /* box-sizing: border-box;  */
+}
+
+body {  
+  font-family: "CarterOne";
+  height: 100%;
+  background-color: #c9d2ea;
+  
+
+  
+}
+
+a {
+  font-family: "CarterOne";
+  text-decoration: none;
+}
+
+a:link{color: #000000; text-decoration: none;}
+a:visited{color: #000000; text-decoration: none;}
+/* a:hover{color: #ff3d00;} */
+
+
+
+  ;
+
