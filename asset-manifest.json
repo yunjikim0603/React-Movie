@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-movie/static/css/main.147c2388.css",
+    "main.css": "/react-movie/static/css/main.d7a37c83.css",
     "main.js": "/react-movie/static/js/main.99ef578e.js",
     "static/media/CarterOne-Regular.ttf": "/react-movie/static/media/CarterOne-Regular.077c4bbc891d504d9751.ttf",
     "static/media/logo.png": "/react-movie/static/media/logo.922fab711e70168781c0.png",
     "index.html": "/react-movie/index.html",
-    "main.147c2388.css.map": "/react-movie/static/css/main.147c2388.css.map",
+    "main.d7a37c83.css.map": "/react-movie/static/css/main.d7a37c83.css.map",
     "main.99ef578e.js.map": "/react-movie/static/js/main.99ef578e.js.map"
   },
   "entrypoints": [
-    "static/css/main.147c2388.css",
+    "static/css/main.d7a37c83.css",
     "static/js/main.99ef578e.js"
   ]
 }
