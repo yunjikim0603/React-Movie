@@ -1,3 +1,17 @@
+# Making Web App with React
+
+---
+
+<img width="1431" alt="main" src="https://user-images.githubusercontent.com/80882639/211804722-ac4fc773-bf77-4cf4-ae6f-d4fb088314c6.png">
+
+<https://yunjikim0603.github.io/react-movie/>
+
+# Reference
+
+---
+
+[nomadcoders](https://nomadcoders.co/react-for-beginners)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,5 +82,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # react-movie
+
 # react-movie

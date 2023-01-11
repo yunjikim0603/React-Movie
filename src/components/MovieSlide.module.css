@@ -11,7 +11,6 @@
   transform: translateY(-10px);
   box-shadow: rgba(0, 0, 0, 0.3) 0px 11px 30px,
     rgba(0, 0, 0, 0.22) 0px 7px 4px;
-    /* box-shadow: 0px 6px 30px 16px #747373; */
 }
 
 .movie img {
@@ -22,7 +21,6 @@
 .letters {
   padding: 0px 10px 30px 10px;
 }
-
 
 .title {
   height: 60px;

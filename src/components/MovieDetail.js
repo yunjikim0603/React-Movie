@@ -25,7 +25,7 @@ function MovieDetail({ bgImg, coverImg, title, genres, rating, summary, url }) {
           </div>
           <div className={styles.detailImg}>
             <a href={url}>
-              <img src={coverImg} />
+              <img src={coverImg} alt={title} />
             </a>
           </div>
         </div>

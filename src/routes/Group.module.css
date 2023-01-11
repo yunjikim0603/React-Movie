@@ -1,5 +1,3 @@
-/* 그룹별 페이지 */
-
 .container{
   height: 100%;
   width: 100%;
@@ -9,8 +7,7 @@
 .movies{
   display: grid;
   justify-content: center;
-  grid-template-columns: repeat(auto-fill, minmax(500px, auto));
-
+  grid-template-columns: repeat(auto-fill, minmax(570px, auto));
 }
 
 .footer {
@@ -30,5 +27,4 @@
 .list a {
   font-size: 30px;
   font-family: "CarterOne";
-
 }

@@ -1,5 +1,3 @@
-//그룹객체 key:value
-
 const groupObj = {
   Action: "genre=Action",
   Romance: "genre=Romance",

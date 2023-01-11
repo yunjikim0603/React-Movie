@@ -36,9 +36,6 @@ function Detail() {
           summary={movie.description_full}
           url={movie.url}
         />
-        // <div>
-        //   <img src={movie.background_image_original}></img>
-        // </div>
       )}
     </div>
   );

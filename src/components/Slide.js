@@ -10,8 +10,9 @@ import { faChevronRight } from "@fortawesome/free-solid-svg-icons";
 function Slide({ ApiURL }) {
   //슬라이드 부분 로딩
   const [loading, setLoading] = useState(true);
+  //영화데이터
   const [movies, setMovies] = useState([]);
-
+  //슬라이드 이동
   const [trans, setTrans] = useState(0);
 
   //왼쪽 버튼 동작 함수
@@ -45,7 +46,6 @@ function Slide({ ApiURL }) {
     setLoading(true);
     getMovies();
   }, []);
-
   return (
     <div className={styles.container}>
       <div className={styles.slide_show}>

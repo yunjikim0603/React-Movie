@@ -47,7 +47,7 @@ function Group() {
         </div>
       )}
 
-      {/* 페이지전환 */}
+      {/* 페이징 */}
       {loading ? (
         <Load />
       ) : (
